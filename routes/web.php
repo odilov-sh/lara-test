@@ -23,3 +23,7 @@ Route::get('/dashboard', function () {
 
 require __DIR__.'/auth.php';
 require __DIR__.'/admin.php';
+
+Route::get('posts/{post:slug}', function (\App\Models\Post $post) {
+    dd($post);
+});
