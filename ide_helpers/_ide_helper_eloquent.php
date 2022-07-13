@@ -1,5 +1,6 @@
 <?php
-
+// @formatter:off
+// phpcs:ignoreFile
 namespace {
 
     class Eloquent extends \Illuminate\Database\Eloquent\Model

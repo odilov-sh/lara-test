@@ -1,5 +1,7 @@
 <?php
 
+// @formatter:off
+// phpcs:ignoreFile
 
 namespace Illuminate\Support\Facades {
 

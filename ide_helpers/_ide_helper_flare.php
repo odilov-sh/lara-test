@@ -1,5 +1,6 @@
 <?php
-
+// @formatter:off
+// phpcs:ignoreFile
 namespace Facade\Ignition\Facades {
     /**
      * Class Flare.

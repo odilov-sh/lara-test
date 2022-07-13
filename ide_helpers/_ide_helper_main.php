@@ -1,5 +1,8 @@
 <?php
 
+// @formatter:off
+// phpcs:ignoreFile
+
 namespace {
     class App extends \Illuminate\Support\Facades\App
     {
